@@ -1,0 +1,17 @@
+
+
+#countdownContainer {
+    
+    color: magenta;
+    font-size: 300px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+    
+}
