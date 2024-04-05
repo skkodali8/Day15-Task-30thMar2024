@@ -19,5 +19,9 @@
             displayCount();
         }
 
-        countdown();
+      function callback(fun){
+            fun();
+        }
+
+        callback(countdown);
     
